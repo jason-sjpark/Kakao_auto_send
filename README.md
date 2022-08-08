@@ -1,2 +1,2 @@
 # Kakao_auto_send
-KakaoTalk를 활용한 Client Management System
+KakaoTalk을 활용한 Client Management System
